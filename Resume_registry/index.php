@@ -11,7 +11,7 @@ $profiles = $stmt->fetchAll();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Resume Registry</title>
+    <title>db359280</title>
     <style>
         html, body {
             margin: 0;
@@ -174,4 +174,5 @@ $profiles = $stmt->fetchAll();
         Designed for women who lead with grace and ambition.
     </footer>
 </body>
+
 </html>

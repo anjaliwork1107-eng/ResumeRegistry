@@ -11,7 +11,7 @@ $profiles = $stmt->fetchAll();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>db359280</title>
+    <title>Resume Registry-db359280</title>
     <style>
         html, body {
             margin: 0;
@@ -176,3 +176,4 @@ $profiles = $stmt->fetchAll();
 </body>
 
 </html>
+

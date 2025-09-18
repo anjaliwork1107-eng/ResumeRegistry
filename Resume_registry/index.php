@@ -144,7 +144,7 @@ $profiles = $stmt->fetchAll();
                 <a href="add.php">➕ Add New Entry</a>
                 <a href="logout.php">🚪 Logout</a>
             <?php else: ?>
-                <a href="login.php">Please log in</a>
+                <a href="login.php"><span aria-hidden="true">🔐</span> Please log in</a>
             <?php endif; ?>
         </div>
 
@@ -176,5 +176,6 @@ $profiles = $stmt->fetchAll();
 </body>
 
 </html>
+
 
 
